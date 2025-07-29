@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(155, 212, 235);
+}
+h1{
+    text-align: center;
+    color: maroon;
+}
+
+p{
+    color: maroon;
+    text-align: center;
+}
+li{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+img{
+    width: 200px;
+    height: 230px;
+}
